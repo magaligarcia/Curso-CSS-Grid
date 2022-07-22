@@ -1,0 +1,26 @@
+.app {
+    background: #f1f1f1;
+    display: grid; /*Indicando al body que es grid*/
+    grid-template-areas: /*Definir areas principales, columnas y lineas*/
+    "encabezado"
+    "contenido"
+    "rodapie"; 
+    grid-template-columns: auto; /*cant columnas ajustable al tamaño de la pantalla*/
+    grid-template-rows: 50px auto auto; /*header 50px, contenido automatico y footer automatico */
+
+}
+
+.encabezado {
+    background: #00cc99;
+    grid-area: encabezado;
+    
+}
+.contenido {
+    background: #ff8080;
+    grid-area: contenido;
+}
+
+.rodapie { 
+    background: #0099ff;
+    grid-area: rodapie;
+}

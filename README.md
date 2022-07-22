@@ -27,5 +27,6 @@
 * Establecer el espacio entre filas y columnas.
 
 ### 03 - DISEÑANADO LA SECCION DE POPULAR:
-*Es posible tener una grid dentro de otra.
-*Calcular el ancho.
+* Es posible tener una grid dentro de otra.
+* Calcular el ancho.
+

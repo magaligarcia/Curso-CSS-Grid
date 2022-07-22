@@ -25,3 +25,7 @@
 * Establecer el número de líneas.
 * Especificar a los elementos dónde empezar y dónde terminar.
 * Establecer el espacio entre filas y columnas.
+
+### 03 - DISEÑANADO LA SECCION DE POPULAR:
+*Es posible tener una grid dentro de otra.
+*Calcular el ancho.

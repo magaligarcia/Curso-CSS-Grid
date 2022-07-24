@@ -30,3 +30,9 @@
 * Es posible tener una grid dentro de otra.
 * Calcular el ancho.
 
+### 04 - APLICAR ESTILO AL ENCABEZADO, MENÚ Y PIE DE PÁGINA:
+* Centralizar el contenido.
+* Agregar bordes.
+* Darle estilo al desplazamiento del mouse.
+* Agregar el símbolo de copyright.
+

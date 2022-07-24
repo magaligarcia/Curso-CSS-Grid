@@ -25,3 +25,14 @@
 * Establecer el número de líneas.
 * Especificar a los elementos dónde empezar y dónde terminar.
 * Establecer el espacio entre filas y columnas.
+
+### 03 - DISEÑANADO LA SECCION DE POPULAR:
+* Es posible tener una grid dentro de otra.
+* Calcular el ancho.
+
+### 04 - APLICAR ESTILO AL ENCABEZADO, MENÚ Y PIE DE PÁGINA:
+* Centralizar el contenido.
+* Agregar bordes.
+* Darle estilo al desplazamiento del mouse.
+* Agregar el símbolo de copyright.
+
